@@ -64,7 +64,7 @@ const Books = () => {
 
   return (
    
-    <main className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-cyan-50 relative overflow-hidden">
+  <main className="min-h-screen bg-gradient-to-br from-blue-100 via-gray-50 to-cyan-100 relative overflow-hidden">
     {/* Background decorations */}
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
       <div className="absolute -top-40 -right-32 w-96 h-96 bg-gradient-to-r from-blue-400/10 to-cyan-400/10 rounded-full blur-3xl animate-pulse"></div>
