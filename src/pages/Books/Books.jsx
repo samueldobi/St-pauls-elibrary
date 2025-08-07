@@ -113,11 +113,11 @@ const Books = () => {
         <div className="mt-8 flex flex-wrap items-center justify-center gap-8 animate-slide-up delay-300">
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
-            <span className="text-sm font-medium text-gray-600">10,000+ Books</span>
+            <span className="text-sm font-medium text-gray-600">10000+ Books</span>
           </div>
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 bg-blue-400 rounded-full animate-pulse delay-200"></div>
-            <span className="text-sm font-medium text-gray-600">500+ Authors</span>
+            <span className="text-sm font-medium text-gray-600">20+ Subjects</span>
           </div>
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 bg-cyan-400 rounded-full animate-pulse delay-400"></div>
